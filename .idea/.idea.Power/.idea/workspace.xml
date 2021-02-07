@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bedad26b-6431-48cb-84a4-2461d086b926" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Odin/Files/OdinSerializer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Odin/Graph/GraphAdapter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Odin/Graph/VertexAdapter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Odin/Singletons/SerializedSingleton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Engine/Scene/Mono/CallbackSceneOperator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Engine/Scene/Mono/CallbackSceneOperator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Engine/Scene/Mono/Odin.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Engine/Scene/Mono/Odin/SceneInspectorParamsInjector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Odin/Scenes/SceneInspectorParamsInjector.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/Mono/SerializedContext.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Collections/Grid.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Collections/Grid.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/2D/Graph2DAdapter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/2D/Graph2DAdapter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/2D/Vertex2DAdapter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/2D/Vertex2DAdapter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/Edge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/Edge.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/Graph.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/Graph.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/GraphAdapter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/GraphAdapter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/Vertex.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/Vertex.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/VertexAdapter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/VertexAdapter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Files/Storage/DataProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Files/Storage/DataProfile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Files/Storage/Serializers/OdinSerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Files/Storage/Serializers/OdinSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Files/Storage/Storage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Files/Storage/Storage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Pathfinding/Alghoritms/LinkedJastar/LinkedAPoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Pathfinding/Alghoritms/LinkedJastar/LinkedAPoint.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Structure/SerializedSingleton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Structure/SerializedSingleton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/Odin.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/Odin/SerializedContextVisual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Odin/Visual/SerializedContextVisual.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/Odin/SerializedVisual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Odin/Visual/SerializedVisual.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Assets/SubModules/Package-Unity" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Engine/Scene/Mono/CallbackSceneOperator.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Collections/Grid.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/GraphAdapter.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/Graph.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/Vertex.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Extensions/Graphs/Edge.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Files/Storage/DataProfile.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Files/Storage/Storage.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Pathfinding/Alghoritms/LinkedJastar/LinkedAPoint.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1o9cP5TO2i5MXcUFVM9XpJMRpnG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bedad26b-6431-48cb-84a4-2461d086b926" name="Default Changelist" comment="" />
+      <created>1612702264216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612702264216</updated>
+      <workItem from="1612702290947" duration="835000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
